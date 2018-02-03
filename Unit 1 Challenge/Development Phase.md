@@ -78,7 +78,7 @@ The next function holds the code for player 1's input. It asks player 1 to choos
 
 ![](draft3output.png)
 
-Here, I tested whether the function containing the winning combinations worked. I made the user enter a winning combination (0,1,2)  which produces a win at the top of the board. The program then outputted that the user won.
+Here I tested whether the function containing the winning combinations worked. I made the user enter a winning combination (0,1,2)  which produces a win at the top of the board. The program then outputted that the user won.
 
 
 ![](draft3output2.png)
