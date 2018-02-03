@@ -37,9 +37,12 @@ Overall the program is extremely basic and is not completely robust. To improve 
 ### Running and trial of draft 2 code
 
 ![](draft2output.png)
+
 In this test, I tested whether the winning combination function worked. I made the user enter the winning combination (0,1,2) which produces a win in the top horizontal row. The program successfully outputed to the user that the user won
 ***
+
 ![](draft2output2.png)
+
 In this test, I tested whether the program would diallow the placement of a shape if there was already a shape on that tile. Following the test, I can conclude that when the user tried to place a shape in an already occupied space, the program will output that the spot is taken and and prompt the user to enter another tile number.
 
 ### Evaluation of draft 2
@@ -51,12 +54,19 @@ Overall my program is still basic and not robust but it now shows a physical boa
 ### Draft 3 code
 
 ![](draft3code.png)
+
 ![](draft3code2.png)
+
 ![](draft3code3.png)
+
 ![](draft3code4.png)
+
 ![](draft3code5.png)
+
 ![](draft3code6.png)
+
 ![](draft3code7.png)
+
 ![](draft3code7.png)
 
 The final draft of the code starts off by importing the random function. Two variables are then definedt o hold player 1 and player 2's scores. The first function is then defined to hold the entire code for player 1 vs the computer. Within this function, I defined an array with numbers 0-8 which has the positions of the board. The next function then checks whether the user has a win by listing all possible combinations for a win. The next function defines a visual board using the array from before which shows the user where they are placing their shape. A while loop is then executed which holds the input for where the user would like to place their spot. The program then checks to see if the space os occupied or free. If the space is free, the program places the shape there. If it is taken, the program outputs that the spot is taken and promots the user to enter another tile space. The program then checks whether there is a win by the user using the earlier defined function. If there is a win by the user, the program will output there has been a win. If there is no win the game will carry on. A while loop is then executed to make the computer generate a random number between 0 and 8. The program then checks to see if that space is already taken. If it is already taken the program will keep generating a random number until it is already taken.
@@ -67,13 +77,19 @@ The next function holds the code for player 1's input. It asks player 1 to choos
 ### Running and trial of draft 3 code
 
 ![](draft3output.png)
+
 Here, I tested whether the function containing the winning combinations worked. I made the user enter a winning combination (0,1,2)  which produces a win at the top of the board. The program then outputted that the user won.
 ***
+
 ![](draft3output2.png)
+
 Here I tested whether the new function where 2 players can play at a time worked. I tested whether when the user entered a space to place their shape it would actually place it there. The program successfully placed the shapes in the player's desired spots.
 ***
+
 ![](draft3output3.png)
+
 ![](draft3output4.png)
+
 Here, I tested whether the program was able to effectively distribute scores to the correct players. The program was able to assign points and store them for next games use.
 
 ### Evaluation of draft 3
