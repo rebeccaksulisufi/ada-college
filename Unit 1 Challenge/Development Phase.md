@@ -15,7 +15,7 @@ I start by importing the random function, then defining the board as an empty ar
 
 ![](draft1output.png)
 In this trial of the game. The program introduced the game and then promopted me to select a tile. Upon selecting a tile, the program prompted me to select another and keeps going. The computer then stated I had won as I had a horizontal win.
-***
+
 ![](draft1output.png)
 
 In this trial of the game.The program introduced the  game and prompted me to select a tile. Once I selected a tile, when the program prompted me again, I entered the same number to see if my program would detect it as invalid. The program, as expected outputted that the spot was taken and prompted me to enter a valid input again.
@@ -39,7 +39,7 @@ Overall the program is extremely basic and is not completely robust. To improve 
 ![](draft2output.png)
 
 In this test, I tested whether the winning combination function worked. I made the user enter the winning combination (0,1,2) which produces a win in the top horizontal row. The program successfully outputed to the user that the user won
-***
+
 
 ![](draft2output2.png)
 
@@ -79,12 +79,12 @@ The next function holds the code for player 1's input. It asks player 1 to choos
 ![](draft3output.png)
 
 Here, I tested whether the function containing the winning combinations worked. I made the user enter a winning combination (0,1,2)  which produces a win at the top of the board. The program then outputted that the user won.
-***
+
 
 ![](draft3output2.png)
 
 Here I tested whether the new function where 2 players can play at a time worked. I tested whether when the user entered a space to place their shape it would actually place it there. The program successfully placed the shapes in the player's desired spots.
-***
+
 
 ![](draft3output3.png)
 
