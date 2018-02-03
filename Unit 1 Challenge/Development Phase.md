@@ -4,8 +4,8 @@
 
 ### Draft 1 code
 
-![](draft 1 p1.png)
-![](draft 1 p2.png)
+![](draft1code.png)
+![](draft1code.png)
 
 
 In my first draft of the code I have developed a few basic features.
@@ -13,10 +13,10 @@ I start by importing the random function, then defining the board as an empty ar
 
 ### Running and trial of draft 1 code
 
-![](draft 1 o1.png)
+![](draft1output.png)
 In this trial of the game. The program introduced the game and then promopted me to select a tile. Upon selecting a tile, the program prompted me to select another and keeps going. The computer then stated I had won as I had a horizontal win.
 ***
-![](draft 1 o2.png)
+![](draft1output.png)
 
 In this trial of the game.The program introduced the  game and prompted me to select a tile. Once I selected a tile, when the program prompted me again, I entered the same number to see if my program would detect it as invalid. The program, as expected outputted that the spot was taken and prompted me to enter a valid input again.
 
