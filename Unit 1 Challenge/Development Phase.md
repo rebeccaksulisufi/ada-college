@@ -47,7 +47,7 @@ In this test, I tested whether the program would diallow the placement of a shap
 
 ### Evaluation of draft 2
 
-Overall my program is still basic and not robust but it now shows a physical board so the users can visually see where they are placing their shapes and wont have to remember where they have placed their shape. To further improve this program I would like to give the user an option at the start to enter how many players there are. If they enter '1' player, then the program will start the game with the user against the computer. If the user enters '2' players, then the program should start the game with player 1 against player 2.
+Overall my program is still basic and is still not robust but it now shows a physical board so the users can visually see where they are placing their shapes and wont have to remember where they have placed their shape. To further improve this program I would like to give the user an option at the start to enter how many players there are. If they enter '1' player, then the program will start the game with the user against the computer. If the user enters '2' players, then the program should start the game with player 1 against player 2.
 
 ## Draft 3
 
