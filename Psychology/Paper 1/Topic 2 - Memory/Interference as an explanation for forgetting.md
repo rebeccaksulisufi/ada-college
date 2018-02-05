@@ -1,4 +1,4 @@
-# Outline and evaluate interference as an explanation for forgetting
+# Interference as an explanation for forgetting
 
 ## A01
 - Forgetting occurs because memories interfere with and disrupt another

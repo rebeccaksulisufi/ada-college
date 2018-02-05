@@ -1,4 +1,4 @@
-# Outline and evaluate the effect of anxiety on EWT
+# Effect of anxiety on EWT
 
 ## A01
 - Anxiety is an unpleasant emotional state that is accompanied by increased heart rate and rapid breathing

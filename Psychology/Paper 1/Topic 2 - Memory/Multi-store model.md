@@ -1,4 +1,4 @@
-# Outline and evaluate the multi-store model
+# Multi-store model
 
 ## A01
 - Proposed by Atkinson and Shiffrin

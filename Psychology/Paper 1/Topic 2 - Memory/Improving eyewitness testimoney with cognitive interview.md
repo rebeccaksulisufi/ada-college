@@ -1,4 +1,4 @@
-# Outline and evaluate the use of cognitive interview as means of improving the accuracy of eyewitness testimony
+# Improving the accuracy of eyewitness testimony using the cognitive interview
 
 ## A01
 - Geiselman developed a interviewing technique called the cognitive interview

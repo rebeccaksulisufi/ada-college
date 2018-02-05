@@ -1,4 +1,4 @@
-# Outline and evaluate the working memory model
+# Working memory model
 
 ## A01
 - Baddeley and Hitch replaces the idea of a unitary STM by suggesting a system involving active processing and short-term storage of information

@@ -1,4 +1,4 @@
-# Outline and evaluate retrieval failure as an explanation for forgetting
+# Retrieval failure as an explanation for forgetting
 
 ## A01
 

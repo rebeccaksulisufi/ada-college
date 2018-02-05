@@ -1,4 +1,4 @@
-# Outline and evaluate long term memory
+# Long term memory
 
 ## A01
 
@@ -7,7 +7,7 @@
 ### Procedural
 - Knowing how to do things (unconscious/automatic)
 
-### Semantic 
+### Semantic
 - Storing information about the world (London is the capital of England)
 
 ### Episodic
