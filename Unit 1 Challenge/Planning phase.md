@@ -1,4 +1,3 @@
-<<<<<<< current
 # Tic Tac Toe Challenge
 
 ## Planning Phase
@@ -9,7 +8,7 @@ The objective of the game is to place 3 of your shape (either noughts or crosses
 The first player will place their shape on an empty square on a 3x3 grid. Then player 2 will have their go. A shape cannot be placed where another shape already is.
 This continues until either player 1 or player 2 has made a straight line with their shape either horizontally, vertically, or diagonally.
 
-### In my program I will implement#
+### In my program I will implement
 
 #### Variables and constants
 - Two functions for two types of games. The first function will contain the code for one user to play against the computer. The second function will contain the code for two users to play against eachother
