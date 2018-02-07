@@ -13,4 +13,4 @@
 -
 ## A03
 - Lack of realism- the learner cried out in pain but the experiementer stayed calm which could lead to the participant guessing that the victim is not suffering any real harm
--
+- Ethical issues- Milgram deceived his participants by telling them they were involved in a study on the effects of punishment on learning rather then telling themthe actual aim of the study which makes it impossible for participants to make an informed decision before giving their consent

@@ -1,4 +1,4 @@
-# Outline and evaluate normative and informational influence as explanations for conformity
+# Normative and informational influence as explanations for conformity
 
 ## A01
 
