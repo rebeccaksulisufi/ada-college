@@ -100,12 +100,38 @@ IDENTIFY 5 RISKS AND WRITE THEM IN THE CAUSE, EVENT, AND CONSEQUENCE STRUCTURE
 
 **which would result in** reduced market share - and therefore profitability - for our product.
 
-1) As a result of new laptops being provided, there is an increased risk of theft of the building to take the laptops, which would result in student data being lost and college losing their property
+| Risk                                                                                                                                                                                                                                                             | Impact | Probability | Severity | Contingency plan                                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| As a result of new laptops being provided there is an increased risk of theft of the building to take the laptops which could result in the student data being lost and the college losing their property.                                                       | 4      | 2           | 8        | Mitigate - Secure all laptops after the college day has ended ensuring all laptops are back in place.                                                                                    |
+| As a result of there being a fire, there is a risk that everyone in the building could get hurt and/or the whole building could burn which would result in students unable to come to college                                                                    | 5      | 1           | 5        | Mitigate/transfer - Ensure there is a correct fire escape plan in place and all important documents/files are backed up in a secure offsite location                                     |
+| As the result of a power surge, there is a risk that there will be no power in the building which will lead to studets being unable to access the internet to do their work and possibly not be able to come to college due to there being no electricity/lights | 4      | 1           | 4        | Accept/mitigate - use a backup generator or try to get the power back on as soon as possible                                                                                             |
+| As the result of the amount of glass in the building, there is the risk that the glass could break/shatter which would cause disruption, damage and possible injurys.                                                                                            | 5      | 1           | 5        | Mitigate/Accept - Use double glazed glass making it harder to break/smash **OR** have more than one possible route to access parts of the buildings so the affected area can be avoided. |
 
-2) As a result of there being a fire, there is a risk that everyone in the builsing could get hurt and/or the whole building could burn which would result in students unable to come to college
 
-3)As the result of a power surge, there is a risk that there will be no power in the building which will lead to studets being unable to access the internet to do their work and possibly not be able to come to college due to there being no electricity/lights
+**Mitigate** - Take steps to reduce the probability and impact of the risk event
 
+**Avoid** - Don't engage in the activity that has given rise to the risk
 
+**Transfer** - Move the risk to another party (take out insurance)
 
-In case of a power surge, there is a risk that there will be no power in the building. No live wires should be exposed for the safety of everyone in the building
+**Accept** - Do nothing, if the risk event occurs accept the consequences
+
+### Example risk 1:
+Key personnel leave the project taking critical informtion with them that significantly delays or derails the project
+
+**How can the probability of the event be reduced?**
+- Reduce the amount of sensitive data that people have access to
+- Keep a contract with key personnel requiring them to stay in the project until it is over
+
+**How can the impact of the event be reduced?**
+- Keep critical data backed up so a new employee can understand and access the data straight away
+
+### Example risk 2:
+The hardware and software are not comptible with eachother
+
+**How can the probability of the event be reduced?**
+- Assess the compatibility before buying any products
+
+**How can the impact of the event be reduced?**
+- Keep a spare option in case of the possibility of the hardware and software not compatible **(cost is a factor)**
+- Buy new software

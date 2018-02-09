@@ -37,15 +37,17 @@ def player1():
 # Function lists all winning combinations to check for a win after every turn
 
     def visualboard():
-        print (board[0], "|",board[1], "|",board[2])
-        print ("----------")
-        print (board[3], "|",board[4], "|",board[5])
-        print ("----------")
-        print (board[6], "|",board[7], "|",board[8])
+        print ("-------------")
+        print ("|", board[0], "|",board[1], "|",board[2], "|")
+        print ("-------------")
+        print ("|", board[3], "|",board[4], "|",board[5], "|")
+        print ("-------------")
+        print ("|", board[6], "|",board[7], "|",board[8], "|")
+        print ("-------------")
 # This function uses the array for the board from before
 # Creates a visual board for the user to see
 
-    print ("You are noughts!!")
+    print ("You are crosses!!")
 # Introduction to the game, telling the user the game and what shape they will be in the game
 
     while True:
