@@ -27,6 +27,7 @@
 
 ### Long term memory
 - Is for events that have happened in the past.
+
 #### LTM has 3 main aspects:
 
 ##### Capacity

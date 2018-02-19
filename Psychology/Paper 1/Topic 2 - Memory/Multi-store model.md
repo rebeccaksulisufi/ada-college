@@ -11,7 +11,7 @@
 - Duration = refers to the period of time information can last in memory stores
 
 ### Sensory register:
-- Duration = ½ second
+- Duration = 0.5 second
 - Capacity = all sensory experience
 - Encoding = sense specific
 

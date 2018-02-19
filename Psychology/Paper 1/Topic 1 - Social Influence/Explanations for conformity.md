@@ -1,14 +1,12 @@
 # Normative and informational influence as explanations for conformity
 
 ## A01
-
 ### Normative social influence
 - As humans are a social species, they have a fundamental need for social interaction and have a fear of rejection
 - This forms normative social influence as humans need to gain approval and acceptance from society to avoid disapproval
 - An important condition of normative social influence is that the individual only complies when under surveillance of the group.
 - People conform in the public view but do not internalise this view into private settings
 -Shows compliance
-
 ### Informational social influence
 - Informational influence occurs when an individual accepts information from others to gain knowledge
 - Humans need to feel that their perceptions and beliefs are correct
