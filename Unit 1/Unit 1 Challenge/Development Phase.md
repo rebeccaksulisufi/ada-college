@@ -29,9 +29,9 @@ Overall the program is extremely basic and is not completely robust. To improve 
 
 ### Draft 2 code
 
-![](draft2code.PNG)
-![](draft2code2.PNG)
-![](draft2code3.PNG)
+![](draft2code.png)
+![](draft2code2.png)
+![](draft2code3.png)
 
  In my second draft it is similar to my first one but I changed certain aspects of the code. I started by importing the random function and then defining the board as an empty array with numbers 0-8. I then defined a function which checks the board for a win. The second function lists all possible combinations for a win. *I then defined a new function which was to create a visual board. It uses the array from before for this visual board.* I then implement an introduction which tells the user the game and what shape they will be and the next function will be the main code. The main code contains a while loop where the user is asked to select a tile and if the spot the user selects is not within the range then the program will print that its not a valid input. If the user does select an input thats within the range then the program will continue to an if statement which checks if the tile where the user wanted to place their shape is free. If there is no shape on that tile, the program places the shape there. If there is a shape there the else statement will output to the user that that spot is taken. The program will then check for a win using the earlier defined function which states all the possible combinations for a win. If the user has a winning combination, it will output to the user that they have won. If there is no winning combination, then the code will carry on to allow the computer to randomly generate a number between 0-8. The next if statement then checks that if the tile which the computer generated to place their shape is already taken. If the space is already taken, the code will run again to allow the computer to generate another random number between 0-8. Another if statement then runs to check whether the computer has won using the earlier defined function. If the computer has won the program will output that the computer has won. If there is no win then the game will keep looping until there is a win or a tie.
 
