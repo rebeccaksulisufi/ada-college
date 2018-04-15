@@ -19,4 +19,4 @@
 
 ## A03
 - If people authorise another person to make judgements for them about what is right and wrong they will feel that their own moral values are not relevent. So in future if an authority figure directs them to engage in immoral actions, they will be allarmingly willing to do so
-- Milgram believed that the agentic state best explained his findings but one common belief is that participants may use these oppertunities to express their sadistic impulses 
+- Milgram believed that the agentic state best explained his findings but one common belief is that participants may use these oppertunities to express their sadistic impulses

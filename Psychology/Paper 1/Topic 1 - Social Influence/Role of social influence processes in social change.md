@@ -9,4 +9,4 @@
 
 ## A03
 - History challenges the view that minorities such as the suffaragettes can bring about social change quickly. There is a strong tendancy to conform to the majority position, so groups are more likely to main the status quo rather than engage in social change.
-- 
+-
