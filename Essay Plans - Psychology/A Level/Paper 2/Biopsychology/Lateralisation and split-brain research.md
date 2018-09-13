@@ -14,7 +14,7 @@
 
 - Sperry studied the capabilities of split-brain patients
 - To test the separated hemispheres, they were able to send visual information to one hemisphere at a time to study Hemispheric Lateralisation
-- Visual information from left visual field goes to right hemisphere
+- Visual info  rmation from left visual field goes to right hemisphere
 - Visual information from the left visual field goes to the right hemisphere
 - The information presented has no way of travelling to the other hemisphere
 - In studies, split-brain patients would fixate on a dot in the centre of a screen while information was presented to either the right or left visual fields

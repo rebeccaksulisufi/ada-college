@@ -19,4 +19,4 @@
 
 ## A03
 - Strength of the biological approach is that it can make clearer predictions regarding behaviour as it is all scientific and backed up with evidence
-- A weakness of the biological approach is that is is widely reductionist. The biological approach attempts to explain all complicated human behaviour just by using biology and lacks consideration in the other parts such as cognitive psychology and behavioural factors.
+- A weakness of the biological approach is that is widely reductionist. The biological approach attempts to explain all complicated human behaviour just by using biology and lacks consideration in the other parts such as cognitive psychology and behavioural factors.

@@ -10,7 +10,7 @@
 
 ### Response to ongoing stressors
 - The HPA axis relies on hormonal signals to keep the SNS working
-- The hypothalamus relases a chemical messenger into the bloodstream
+- The hypothalamus releases a chemical messenger into the bloodstream
 - On arrival at the pituitary gland, the messenger causes the pituitary to produce and release ACTH
 - ACTH is transported in the bloodstream to the adrenal glands
 - ACTH stimulates the adrenal cortex to release cortisol
